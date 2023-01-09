@@ -1,5 +1,7 @@
 ## eggu desu ~
 
+vietnamese
+
 a weeb
 
 and definitely not a dev
