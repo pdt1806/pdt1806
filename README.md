@@ -8,4 +8,4 @@ and definitely not a dev
 
 >**“I'm gonna take you there myself, fly you to the moon. That’s a promise!”**
 
-
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=pdt1806&show_icons=true)
