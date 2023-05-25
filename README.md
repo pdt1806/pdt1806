@@ -1,4 +1,4 @@
-<h1>eggu desu~ <img src="[https://media.tenor.com/ABkcBqwf1ZgAAAAC/the-quintessential-quintuplets-nanako.gif](https://cdn.discordapp.com/emojis/557393461620506634.gif?size=2048)" style="width: 100px; vertical-align: middle"></img></h1>
+<h1>eggu desu~ <img src="https://media.tenor.com/ABkcBqwf1ZgAAAAC/the-quintessential-quintuplets-nanako.gif](https://cdn.discordapp.com/emojis/557393461620506634.gif?size=2048](https://cdn.discordapp.com/emojis/557393461620506634.gif?size=128" style="width: 100px; vertical-align: middle"></img></h1>
 
 vietnamese
 
