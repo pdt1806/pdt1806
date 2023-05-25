@@ -9,7 +9,7 @@ for i in range(10):
   print('すいちゃんは今日もかわいい！')
 ```
 
-## 🌐 Connections:
+# 🌐 Connections:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/pdteggman) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/benny_ng08) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/piaw505) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/piaw505) 
 
 # 💻 Tech Stack:
