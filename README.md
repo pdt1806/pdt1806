@@ -1,7 +1,5 @@
-<div style="text-align: center">
 <img src="https://github.com/pdt1806/pdt1806/blob/main/banner.png?raw=true" style="margin-bottom: 20px">
-<h1>Eggu desu~! 👋</h1>
-</div>
+<h1 align="center">Eggu desu~! 👋</h1>
 
 An ordinary high school student who enjoys and wants to know more about programming.
 
