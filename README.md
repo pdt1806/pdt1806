@@ -5,7 +5,7 @@
 <p align="center">Kind of a front-end developer, but I'm also interested in back-end development.</p>
 <p align="center">I'm still young, and I'm sure I'll be able to do a lot more in the future.</p>
 
-<a align="center" href="https://discord.com/users/458550515614351360" target="_blank"><img width="10%" src=http://disi-api.bennynguyen.us/smallcard/458550515614351360></img></a>
+<a align="center" href="https://discord.com/users/458550515614351360" target="_blank"><img width="60%" src=http://disi-api.bennynguyen.us/smallcard/458550515614351360></img></a>
 
 # 💻 I can use:
 
