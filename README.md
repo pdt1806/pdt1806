@@ -18,5 +18,5 @@ while SuiChanIsCute:
 console.log(myself.name);
 // Output: Benny Nguyen
 ```
-
+<h3>Discord</h3>
 <a href="https://discord.com/users/458550515614351360" target="_blank"><img  width="45%" src=http://disi-api.bennynguyen.us/smallcard/458550515614351360></img></a>
