@@ -102,4 +102,4 @@ console.log(myself.name);
 
 # <h3>Discord</h3>
 
-<a href="https://discord.com/users/458550515614351360" target="_blank"><img width="45%" style="min-width: 300px" src="https://disi-api.bennynguyen.us/smallcard/458550515614351360?bg1=FFC6C8&bg2=FFE4E5&angle=60"></img></a>
+<a href="https://discord.com/users/458550515614351360" target="_blank"><img width="45%" style="min-width: 300px" src="https://disi-api.bennynguyen.us/smallcard/458550515614351360?bg=FCF9FB"></img></a>
