@@ -2,8 +2,8 @@
 <h1 align="center">Eggu desu~! 👋</h1>
 
 <p align="center">An ordinary high school student who enjoys and wants to know more about programming.</p>
-<p align="center">Kind of a front-end developer, but I'm also interested in back-end development.</p>
-<p align="center">I'm still young, and I'm sure I'll be able to do a lot more in the future.</p>
+<p align="center">Specializing in front-end development while also having a keen interest in back-end development.</p>
+<p align="center">I'm still young and confident that I'll achieve much more in the future.</p>
 
 # 💻 I can use:
 
