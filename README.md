@@ -15,7 +15,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### Frontend Development
+### Front-end Development
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
@@ -23,16 +23,15 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Phaser](https://img.shields.io/badge/phaser-100000?style=for-the-badge&logo=phaser-js&logoColor=white&labelColor=b7e6f8&color=b7e6f8)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Backend Development
+### Back-end Development
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
 
-### Tools and Frameworks
+### Tools, Libraries and Frameworks
 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
@@ -42,12 +41,14 @@
 ![Puppeteer](https://img.shields.io/badge/puppeteer-100000?style=for-the-badge&logo=puppeteer&logoColor=white&color=00dba1)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+![Phaser](https://img.shields.io/badge/phaser-100000?style=for-the-badge&logo=phaser-js&logoColor=white&labelColor=b7e6f8&color=b7e6f8)
 
-### Web Servers and Databases
+### Web Servers, Databases and Network
 
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Pocketbase](https://img.shields.io/badge/pocketbase-100000?style=for-the-badge&logo=pocketbase&logoColor=000000&color=FFFFFF)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
 <!-- ### Version Control and Hosting
 
@@ -57,7 +58,6 @@
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
 ### Hardware and IoT
 
@@ -92,18 +92,14 @@
 Things I do in my free time:
 
 - 🎬 Watching anime TV shows and movies.
-
 - 🎶 Listening to music, mostly Japanese songs on Spotify. [Check out my playlist here.](https://open.spotify.com/playlist/3qtADjzQsii3E40jigoJTk)
-
 - 🌏 Watching videos and reading documents/news regarding history and geopolitics.
-
 - 🍃 Walking outdoor and enjoying the fresh air, sometimes with a cup of Starbucks in my hand.
-
 - 🎮 Playing video games with my friends for relaxation.
 
 ### Discord
 
-<a href="https://discord.com/users/458550515614351360" target="_blank"><img width="45%" style="min-width: 300px" src="https://disi-api.bennynguyen.dev/smallcard/458550515614351360?bg=FCF9FB"></img></a>
+<a href="https://discord.com/users/458550515614351360" target="_blank"><img width="45%" style="min-width: 300px; max-width: 400px;" src="https://disi-api.bennynguyen.dev/smallcard/458550515614351360?bg=FCF9FB"></img></a>
 
 ```py
 while SuiChanIsCute:
