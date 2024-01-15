@@ -97,9 +97,9 @@ Things I do in my free time:
 - 🍃 Walking outdoor and enjoying the fresh air, sometimes with a cup of Starbucks in my hand.
 - 🎮 Playing video games with my friends for relaxation.
 
-<!-- ### Discord
+### Discord
 
-<a href="https://discord.com/users/458550515614351360" target="_blank"><img width="45%" style="min-width: 300px; max-width: 400px;" src="https://disi-api.bennynguyen.dev/smallcard/458550515614351360?&bg1=C7F5FF&bg2=FFFFFF&angle=70"></img></a> -->
+[![My Discord](https://disi-api.bennynguyen.dev/smallcard_svg/458550515614351360?&bg1=A8EEFF&bg2=FAFAFA&created=true&angle=70)](https://discord.com/users/458550515614351360)
 
 ```py
 while SuiChanIsCute:
