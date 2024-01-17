@@ -99,7 +99,7 @@ Things I do in my free time:
 
 ### Discord
 
-[![My Discord](https://disi-api.bennynguyen.dev/smallcard_svg/458550515614351360?&bg1=A8EEFF&bg2=FAFAFA&created=true&angle=70)](https://discord.com/users/458550515614351360)
+[![My Discord](https://disi-api.bennynguyen.dev/smallcard_svg/458550515614351360?&bg1=B5EEFF&bg2=FFFFFF&created=true&angle=110)](https://discord.com/users/458550515614351360)
 
 ```py
 while SuiChanIsCute:
