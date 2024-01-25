@@ -93,9 +93,9 @@
 Things I do in my free time:
 
 - 🎬 Watching anime TV shows and movies.
-- 🎶 Listening to music, mostly Japanese songs on Spotify. [Check out my playlist here.](https://open.spotify.com/playlist/3qtADjzQsii3E40jigoJTk)
+- 🎶 Listening to music, mostly Japanese songs on Spotify. [Check out my playlist here](https://open.spotify.com/playlist/3qtADjzQsii3E40jigoJTk).
 - 🌏 Watching videos and reading documents/news regarding history and geopolitics.
-- 🍃 Walking outdoor and enjoying the fresh air, sometimes with a cup of Starbucks in my hand.
+- 🍃 Walking outdoors and enjoying the fresh air, sometimes with a cup of Starbucks in my hand.
 - 🎮 Playing video games with my friends for relaxation.
 
 ### Discord
