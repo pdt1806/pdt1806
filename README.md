@@ -100,7 +100,7 @@ Things I do in my free time:
 
 ### Discord
 
-[![My Discord](https://disi-api.bennynguyen.dev/smallcard_svg/458550515614351360?&bg1=B5EEFF&bg2=FFFFFF&created=true&angle=110)](https://discord.com/users/458550515614351360)
+[![My Discord](https://disi-api.bennynguyen.dev/smallcard_svg/458550515614351360?&bg=FFFAF2&created=true)](https://discord.com/users/458550515614351360)
 
 (yes this is my current Discord status ^\_^)
 
