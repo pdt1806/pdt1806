@@ -46,7 +46,7 @@
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 ![Phaser](https://img.shields.io/badge/phaser-100000?style=for-the-badge&logo=phaser-js&logoColor=white&labelColor=b7e6f8&color=b7e6f8) -->
 
-### Web Servers, Databases and Network
+### Web Servers and Networking
 
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
