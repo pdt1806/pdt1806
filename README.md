@@ -87,6 +87,7 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe_photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Wondershare Filmora](https://img.shields.io/badge/Wondershare_Filmora-100000?style=for-the-badge&logo=wondersharefilmora&logoColor=55e4c4&color=19384c)
 
 <!-- ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) -->
@@ -95,8 +96,8 @@
 
 Things I do in my free time:
 
-- 🎬 Watching anime TV shows and movies.
-- 🎶 Listening to music, mostly Japanese songs on Spotify. [Check out my playlist here](https://open.spotify.com/playlist/3qtADjzQsii3E40jigoJTk).
+- 🎬 Watching anime TV shows and movies. [Let's see if we have the same taste.](https://myanimelist.net/animelist/piaw505)
+- 🎶 Listening to music, mostly Japanese songs on Spotify. [Check out my playlist here.](https://open.spotify.com/playlist/3qtADjzQsii3E40jigoJTk)
 - 🌏 Watching videos and reading documents/news regarding history and geopolitics.
 - 🍃 Walking outdoors and enjoying the fresh air, sometimes with a cup of Starbucks in my hand.
 - 🎮 Playing video games with my friends for relaxation.
