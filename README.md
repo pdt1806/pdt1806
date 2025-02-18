@@ -56,7 +56,7 @@ Things I do in my free time:
 
 ### Discord
 
-[![My Discord](https://disi-api.bennynguyen.dev/smallcard_svg/458550515614351360?&activity=true&mood=true&created=true&wantAccentColor=true)](https://discord.com/users/458550515614351360)
+<a href="https://discord.com/users/458550515614351360" target="_blank"><img width="450px" height="642.9px" src="https://disi-api.bennynguyen.dev/largecard/458550515614351360?&activity=true&mood=true&created=true&aboutMe=This%20is%20my%20Discord%20account!&pronouns=egg%2Feggu&wantAccentColor=true"></img></a>
 
 ```py
 while SuiChanIsCute:
